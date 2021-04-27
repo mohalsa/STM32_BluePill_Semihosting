@@ -1,0 +1,47 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/Users/engmoh/Embedded/PlatformIO_Projects/STM32_Projects/0-SemiHosting_Configurations/include",
+                "/Users/engmoh/Embedded/PlatformIO_Projects/STM32_Projects/0-SemiHosting_Configurations/src",
+                "/Users/engmoh/.platformio/packages/framework-cmsis/CMSIS/Include",
+                "/Users/engmoh/.platformio/packages/framework-cmsis-stm32f1/Include",
+                "/Users/engmoh/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/engmoh/Embedded/PlatformIO_Projects/STM32_Projects/0-SemiHosting_Configurations/include",
+                    "/Users/engmoh/Embedded/PlatformIO_Projects/STM32_Projects/0-SemiHosting_Configurations/src",
+                    "/Users/engmoh/.platformio/packages/framework-cmsis/CMSIS/Include",
+                    "/Users/engmoh/.platformio/packages/framework-cmsis-stm32f1/Include",
+                    "/Users/engmoh/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50101",
+                "STM32F1",
+                "STM32F103xB",
+                "ARDUINO_BLUEPILL_F103C8",
+                "F_CPU=72000000L",
+                "PILL_F103XX",
+                ""
+            ],
+            "compilerPath": "/Users/engmoh/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m3",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

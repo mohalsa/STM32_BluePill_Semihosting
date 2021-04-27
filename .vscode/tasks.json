@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "command": "cd ~/.platformio/packages/tool-openocd && bin/openocd -f scripts/interface/stlink.cfg -c 'set CPUTAPID 0' -f target/stm32f1x.cfg", // Change target MCU from stm32f1x.cfg to any supported MCU, The command "-c 'set CPUTAPID 0'" allows STM32 Clones to be debugged.
+            "args": [
+            ],
+            "problemMatcher": [
+                "$platformio"
+            ],
+            "label": "OpenOCD (Allow semihosting output)"
+        }
+    ]
+}

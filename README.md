@@ -1,4 +1,4 @@
-# Enabling Semihosting Printf() debugging in Vscode + PlatformIO
+# Enabling Semihosting Printf() debugging in Vscode + PlatformIO for ARM CORTEX STM32 BLUEPILL board
 
 ARM Cortex M3 STM32 Bluepill Semihosting-Enabled PlatformIO Project by Mohammed Alsada
 Please first read all instructions, then follow them carefully!

@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/engmoh/Embedded/PlatformIO_Projects/STM32_Projects/0-SemiHosting_Configurations/include",
-                "/Users/engmoh/Embedded/PlatformIO_Projects/STM32_Projects/0-SemiHosting_Configurations/src",
+                "/Users/engmoh/Desktop/STM32_Semihosting/0-SemiHosting_Configurations/include",
+                "/Users/engmoh/Desktop/STM32_Semihosting/0-SemiHosting_Configurations/src",
                 "/Users/engmoh/.platformio/packages/framework-cmsis/CMSIS/Include",
                 "/Users/engmoh/.platformio/packages/framework-cmsis-stm32f1/Include",
                 "/Users/engmoh/.platformio/packages/tool-unity",
@@ -18,8 +18,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/engmoh/Embedded/PlatformIO_Projects/STM32_Projects/0-SemiHosting_Configurations/include",
-                    "/Users/engmoh/Embedded/PlatformIO_Projects/STM32_Projects/0-SemiHosting_Configurations/src",
+                    "/Users/engmoh/Desktop/STM32_Semihosting/0-SemiHosting_Configurations/include",
+                    "/Users/engmoh/Desktop/STM32_Semihosting/0-SemiHosting_Configurations/src",
                     "/Users/engmoh/.platformio/packages/framework-cmsis/CMSIS/Include",
                     "/Users/engmoh/.platformio/packages/framework-cmsis-stm32f1/Include",
                     "/Users/engmoh/.platformio/packages/tool-unity",

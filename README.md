@@ -1,6 +1,6 @@
-# 0-SemiHosting_Configurations
+# Enabling Semihosting Printf() debugging in Vscode + PlatformIO
 
-ARM Cortex M3 STM32 Bluepill Semihosting-Enabled Project by Mohammed Alsada
+ARM Cortex M3 STM32 Bluepill Semihosting-Enabled PlatformIO Project by Mohammed Alsada
 Please first read all instructions, then follow them carefully!
 
 0- Connect Your STlink debugger to USB and to the bluepill board (Drivers must be installed before, if needed.).

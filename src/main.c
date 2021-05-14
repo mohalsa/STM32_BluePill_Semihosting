@@ -30,6 +30,5 @@ extern void initialise_monitor_handles(void);
 int main(void)
 {
     initialise_monitor_handles();   /* This Function MUST come before the first printf() */
-    printf("Hello, world!\n");
-    fflush(stdout);                 /* Needed to display the printf message */
+    printf("Hello, world!\n");      /* IMPORTANT: Always use the "\n" newline character at the end of each string to be printed using printf() function when using semihosting */
 }
